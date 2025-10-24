@@ -73,8 +73,8 @@ div{
 
 .pic2 img {
 
-    width: 130px;
-    margin-top: 1rem;
+    width: 50%;
+    margin-top: 0.3rem;
     
 }
 
@@ -148,7 +148,7 @@ width: 80%;
         padding: 1rem;
     }
 .pic6 img{
-    width: 10rem;
+    width:45%;
     
 } 
     .pic7{
@@ -166,7 +166,7 @@ grid-row-end: 4;
         
     }
     .pic7 img{
-        width: fit-content;
+        width: 50%;
     }
 
     .pic8{
@@ -250,4 +250,5 @@ padding: 2rem 1rem;
         .pic8{
             order: 4;
         }
+
     }
